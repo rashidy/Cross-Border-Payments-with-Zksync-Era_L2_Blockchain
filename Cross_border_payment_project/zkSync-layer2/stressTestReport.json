@@ -1,0 +1,14 @@
+{
+  "Total Transactions Attempted": 100,
+  "Successful Transactions": 9,
+  "Failed Transactions": 91,
+  "Success Rate (%)": "9.00",
+  "Total Time Taken (s)": "34.03",
+  "Throughput (TPS)": "0.26",
+  "Average Transaction Latency (ms)": "17904.18",
+  "Average Gas Consumption": "158015",
+  "Average Events per Transaction": "3.00",
+  "Nonce Management Errors": 66,
+  "Total Gas Consumed": "1422136",
+  "Total Events Emitted": 27
+}

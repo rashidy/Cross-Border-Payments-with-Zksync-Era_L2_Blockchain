@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2020",
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "strict": true,
+    "typeRoots": ["./node_modules/@types", "./types"],
+    "types": ["node", "chai", "mocha", "@nomicfoundation/hardhat-ethers"],
+    "resolveJsonModule": true
+  },
+  "include": ["./scripts", "./test", "./deploy", "./types", "./typechain-types"],
+  "files": ["./hardhat.config.ts"]
+}
