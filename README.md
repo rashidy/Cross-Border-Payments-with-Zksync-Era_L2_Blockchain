@@ -4,7 +4,7 @@ is the practical part of my Masters thesis "using blockchain technology in cross
 # Instructions
 
 * Install Foundry: https://book.getfoundry.sh/getting-started/installation 
-* foundry_project inside cross_border_payment should be used to deploy the smart contract (use deploy_contracts.sh with your intended rpc_urls and deploy commands). It can also be used to run local blockchains in the local machine. Follow the instructions in cbpr_dapp/foundry_project.
+* foundry_project inside cross_border_payment should be used to deploy the smart contract (use deploy_contracts.sh with your intended rpc_urls and deploy commands). It can also be used to run local blockchains in the local machine.
 * python3 and flask should be installed to run the web client.
 * The smart contracts can be initialized from the web client with the information in sc_init.json.
 * Zksync layer is inside the project file with the payloads that are used to stress test layer-1 and layer-2 
